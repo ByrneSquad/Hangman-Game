@@ -1,7 +1,4 @@
 
-
-//Brian Byrne CS140 Program 3 Mr. Klein 3/26/2013
-
 package program3;
 
 import java.util.Scanner;
